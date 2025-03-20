@@ -14,7 +14,7 @@ public class Welcome {
 
     }
 
-   @RequestMapping("/Curso")
+   @RequestMapping("/curso")
     public String Curso(){
 
         return "Curso de desenvolvimento de sistemas ";
