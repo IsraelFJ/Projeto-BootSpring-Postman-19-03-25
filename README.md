@@ -1,7 +1,7 @@
 <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
     <h1 style="color:rgb(76, 73, 231);">Spring boot com postam  </h1>
      <h3 style="color: #000000;"> Aula de Spring boot com postman, apresentabdi novos conceitos 19/03/25 |<b> Professoor : Carlos</b> </h3>
-      <h5>Nesta aula utilizamos o Spring initializr gerando arquivo com extenção Spring Boot DevTools, Spring Web, H2 Database, Lombok e Spring Data JPA. </h5>
+      <h5>Nesta aula utilizamos o Spring initializr gerando arquivo com extenção Spring Boot DevTools, Spring Web, H2 Database, Validation,  Lombok e Spring Data JPA. </h5>
 </div>
 <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
     <h3 style="color: #000000;">Ferramentas utilizadas no processo.</h3>
